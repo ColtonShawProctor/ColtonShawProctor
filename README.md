@@ -10,4 +10,4 @@ Most of my current work lives in private client and employer repositories — ag
 - [IBM-Workshop](https://github.com/ColtonShawProctor/IBM-Workshop) — Preferential Bidding System (PBS) schedule optimizer for airline flight attendants: FastAPI backend, OR-Tools CP-SAT ranking engine, React frontend.
 - [content-core-api](https://github.com/ColtonShawProctor/content-core-api) — containerized content-extraction and AI-summarization API: documents, web pages, audio/video transcription, and OCR.
 
-<!-- TODO(colton): add LinkedIn link here, e.g. [Find me on LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) — no URL was found in any repo, so it was left out rather than guessed. -->
+Find me on [LinkedIn](https://www.linkedin.com/in/coltonshawproctor/).
