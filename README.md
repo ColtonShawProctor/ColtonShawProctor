@@ -1,14 +1,13 @@
 # Colton Proctor
 
-AI engineer building production LLM agent systems. MS in Software Engineering.
+AI engineer in Washington, DC. I build LLM agent systems that run in production. MS in Software Engineering.
 
-Most of my current work lives in private client and employer repositories — agent systems, MCP servers, and Rust/Cassandra coordination and observability infrastructure. I'm glad to walk through the architecture of any of it live.
+Most of my recent work lives in private client and employer repositories: agent pipelines doing RAG over federal regulatory data, MCP servers, and Rust infrastructure for coordination and observability. I am glad to walk through the architecture of any of it live.
 
 **Public projects**
 
-- [regeval](https://github.com/ColtonShawProctor/regeval) — eval harness for LLM agents that produce tracked-changes Word documents: deterministic graders over OOXML revision markup, fail-closed regression gates, and a broken-fixture matrix proving each gate fires for its intended reason.
-- [Deepfake](https://github.com/ColtonShawProctor/Deepfake) — MS capstone: full-stack deepfake-detection web app (FastAPI + React) with a PyTorch multi-model ensemble research codebase (EfficientNet-B4, ResNet-50, frequency-domain F3Net) and a Dockerized deployment stack.
-- [IBM-Workshop](https://github.com/ColtonShawProctor/IBM-Workshop) — Preferential Bidding System (PBS) schedule optimizer for airline flight attendants: FastAPI backend, OR-Tools CP-SAT ranking engine, React frontend.
-- [content-core-api](https://github.com/ColtonShawProctor/content-core-api) — containerized content-extraction and AI-summarization API: documents, web pages, audio/video transcription, and OCR.
+- [regeval](https://github.com/ColtonShawProctor/regeval): an evaluation harness for LLM agents that produce tracked-changes Word documents. It parses OOXML revision markup directly, grades with deterministic fail-closed gates, and proves each gate fires by testing against deliberately broken fixtures.
+- [pbs-optimizer](https://github.com/ColtonShawProctor/pbs-optimizer): schedule ranking for airline flight attendants under the 2024 AA/APFA contract. FastAPI, OR-Tools CP-SAT, and property tests for the pay and legality rules.
+- [Deepfake](https://github.com/ColtonShawProctor/Deepfake): MS capstone. Full-stack deepfake detection app (FastAPI, React) with a PyTorch multi-model ensemble research codebase behind it.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/coltonshawproctor/).
